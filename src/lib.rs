@@ -6,7 +6,7 @@ mod roman {
     /// println!("Hello, world! : {}", "Hello, world!".roman())
     /// /* LXXII CI CVIII CVIII CXI XLIV XXXII CXIX CXI CXIV CVIII C XXXIII */
     /// ```
-    fn roman(&self) -> String;
+    pub fn roman(&self) -> String;
     // TODO: unroman(&self) -> String
   }
 
