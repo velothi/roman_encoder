@@ -1,4 +1,4 @@
-mod roman {
+pub mod roman {
   pub trait Roman {
     /// Encodes unicode string into roman numerals
     /// # Examples
