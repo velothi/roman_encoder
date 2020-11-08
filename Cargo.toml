@@ -1,7 +1,13 @@
 [package]
 name = "roman_encoder"
-version = "1.0.1"
-authors = ["Llathasa Veleth <llathasa@outlook.com>"]
+version = "1.0.2"
+description = "Encode unicode string into roman numerals"
+readme = "README.md"
+license-file = "LICENSE"
+authors = ["Velethi <llathasa@outlook.com>"]
+keywords = ["encoding", "unicode"]
+categories = ["encoding", "algorithms"]
+repository = "https://github.com/velothi/roman_encoder"
 edition = "2018"
 
 [dependencies]
